@@ -1,4 +1,4 @@
 # open_docs
-Documentation on electronic devices that i made.
+Documentation for some electronic devices that i have created for me.
 
 Here you will find some mini/micro modules with STM32 mcu.
